@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: CEE 492 Data Science Project
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,19 @@ keywords:
 lang: en-US
 date-meta: '2022-09-06'
 author-meta:
-- John Doe
+- Chris Tessum
 - Jane Roe
+- Jane Roe2
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="CEE 492 Data Science Project" />
+  <meta name="citation_title" content="CEE 492 Data Science Project" />
+  <meta property="og:title" content="CEE 492 Data Science Project" />
+  <meta property="twitter:title" content="CEE 492 Data Science Project" />
   <meta name="dc.date" content="2022-09-06" />
   <meta name="citation_publication_date" content="2022-09-06" />
   <meta name="dc.language" content="en-US" />
@@ -27,11 +28,15 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Chris Tessum" />
+  <meta name="citation_author_institution" content="Department of CEE, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
   <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Jane Roe2" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -41,9 +46,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/6d2224c69d46eaa5c1f7bf27df8fae8a32a61e13/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/6d2224c69d46eaa5c1f7bf27df8fae8a32a61e13/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/6d2224c69d46eaa5c1f7bf27df8fae8a32a61e13/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/5432d55d043d30fc15e14cb78776ef5129c2b4ff/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/5432d55d043d30fc15e14cb78776ef5129c2b4ff/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/5432d55d043d30fc15e14cb78776ef5129c2b4ff/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/6d2224c69d46eaa5c1f7bf27df8fae8a32a61e13/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-professor_tesm/v/5432d55d043d30fc15e14cb78776ef5129c2b4ff/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-professor_tesm@6d2224c](https://github.com/uiceds/cee-492-term-project-fall-2022-professor_tesm/tree/6d2224c69d46eaa5c1f7bf27df8fae8a32a61e13)
+from [uiceds/cee-492-term-project-fall-2022-professor_tesm@5432d55](https://github.com/uiceds/cee-492-term-project-fall-2022-professor_tesm/tree/5432d55d043d30fc15e14cb78776ef5129c2b4ff)
 on September 6, 2022.
 </em></small>
 
@@ -75,7 +80,7 @@ on September 6, 2022.
 
 
 
-+ **John Doe**<br>
++ **Chris Tessum**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
@@ -83,7 +88,7 @@ on September 6, 2022.
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of CEE, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
@@ -96,11 +101,20 @@ on September 6, 2022.
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
++ **Jane Roe2**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe22](https://github.com/janeroe22)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
 
 
 ## Abstract {.page_break_before}
 
-
+This is the abstract.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
@@ -398,6 +412,10 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
 
+
+## Introduction
+
+This is the introduction.
 
 ## References {.page_break_before}
 
